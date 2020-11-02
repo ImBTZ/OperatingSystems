@@ -1,1 +1,5 @@
 One function of an operating system is providing GUI (graphical user interface), which makes using it more user-friendly. Features such as on-screen navigation, clicking icons, and file exploring are all standard in any GUI oriented operating system. 
+
+Another function is one of the simplest: powering on the device. One press of the power button when the computer is off will power it on. However, it can do more than just that. Depending on how and when you press the power button, the operating system will perform different actions. Pressing the button quickly when the computer is on will cause it to go into sleep mode. Holding the button down will force the computer to shut down. All these different maneuvers are only possible with an operating system.
+
+Running and managing applications is the most important function of an operating system. The OS is responsible for running programs such web browsers, word processers, music players, etc. All of which can be run at the same time in modern operating systems. With a GUI, switching between multiple programs is easy and quick. 
